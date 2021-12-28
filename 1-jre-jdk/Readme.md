@@ -1,6 +1,6 @@
-# Curso de **Java JRE e JDK: **
+# Curso de Java JRE e JDK: 
 
-# **Escreva o seu primeiro código com Intellij**
+# Escreva o seu primeiro código com Intellij
 
 
 
